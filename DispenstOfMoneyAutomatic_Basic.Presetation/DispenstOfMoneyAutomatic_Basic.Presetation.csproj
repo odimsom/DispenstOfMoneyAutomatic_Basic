@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CajeroAutomatico_basico.Application\DispenstOfMoneyAutomatic_Basic.Application.csproj" />
+  </ItemGroup>
+
 </Project>
